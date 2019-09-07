@@ -1,2 +1,2 @@
 # PhisherGod
-python api for phishing social media accounts
+a tool for phishing social media accounts
