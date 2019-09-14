@@ -1,6 +1,6 @@
 export const config = {
     messages: {
-        title: "Login • Instagram",
+        title: "Instagram",
         signUp: "Don't have an account?",
         downloadApp: "Get the app.",
         copyRights: "© 2019 INSTAGRAM FROM FACEBOOK"
